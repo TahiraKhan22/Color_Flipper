@@ -1,0 +1,50 @@
+.nav-center{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    background-color:aliceblue;
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+   
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid; */
+    height: 100vh;
+    
+}
+.container{
+    /* border: 1px solid; */
+    text-align: center;
+    
+}
+button:hover{
+    color: darkblue;
+}
+button{
+    color: black;
+
+}
+ul{
+    gap: 2rem;
+}
+h2{
+    background-color:black;
+    padding: 1.5rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2rem;
+    margin: 2rem;
+}
+a{
+    color:blue;
+}
+a:hover{
+    color: red;
+}
